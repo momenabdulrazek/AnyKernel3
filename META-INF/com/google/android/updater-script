@@ -4,15 +4,3 @@
 #
 #
 # AK_BASE_VERSION=20220304
-
-ui_print("");
-ui_print("███████   ██    ██  ██   ██  ███████  ███████  ██   ██");
-ui_print("██     ██   ██  ██   ██ ██   ██       ██       ███  ██");
-ui_print("██     ██    ████     ███    ██  ████  ███████  ██ ████");
-ui_print("██     ██   ██  ██    ███    ██    ██  ██       ██  ███");
-ui_print("███████   ██    ██    ███    ███████  ███████  ██   ██");
-ui_print("");
-ui_print("                 Oxygen Kernel");
-ui_print("        KernelSU Next Variant with SUSFS");
-ui_print("           By: Mo'men Abdulrazek Ali");
-ui_print("");
